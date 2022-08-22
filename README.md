@@ -1,7 +1,6 @@
 
 - 🏠 I'm from the Amazon rainforest region of Brazil 🇧🇷 currently living in the beatiful city of Lisbon 🇵🇹
-- 💼 Software engineer @ Talkdesk
-- 📝 I'm currently studying Elixir and Phoenix
+- 🌱 I'm currently studying Elixir and Phoenix
 
 <div align="center">
   <a href="https://github.com/cruzmatheus">
